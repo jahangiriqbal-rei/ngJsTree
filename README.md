@@ -11,6 +11,8 @@ ngJsTree
 
 Angular Directive for the famous [JS Tree] library.
 
+##Note--
+* the url for Federal Hierarchy in the myCtrl.js file should be updated with the dev url, or your local version of federal heirarchy
 
 ##Dependencies
 
